@@ -27,6 +27,7 @@ public class MyUDF extends GenericUDF {
         }
         //3.返回输入数据的长度
         return input.length();
+        //4.我是测试
     }
 
     @Override
